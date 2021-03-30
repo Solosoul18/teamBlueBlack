@@ -1,0 +1,43 @@
+body{   
+    background: #015c5c;
+ }
+#indifrm{
+    
+}
+#cart{
+	color: #fff;  
+    background: #2294c2;
+    border-radius: 10px; 
+    border: #337ab7; 
+    padding: 7px;    
+    font-family: Verdana;
+    transition: all 0.5s;
+    cursor: pointer;
+	line-height: 12px;
+     width: 80px;
+     font-size: 8pt;
+     margin-top: 1px;
+     margin-right: 2px;
+	position:absolute;
+	top: 23%;
+	right: 32%;
+	
+}
+#delete{
+	color: #fff;  
+    background: #2294c2;
+    border-radius: 10px; 
+    border: #337ab7; 
+    padding: 7px;    
+    font-family: Verdana;
+    transition: all 0.5s;
+    cursor: pointer;
+	line-height: 12px;
+     width: 80px;
+     font-size: 8pt;
+     margin-top: 1px;
+     margin-right: 2px;
+	position:absolute;
+	top: 45%;
+	right: 32%;
+}
