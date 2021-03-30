@@ -18,7 +18,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## NOTE
 
-I know it is not a good practice to have files saved in the public folder. Eventhough im good with PHP im slowly learning about frameworks.Since i'm a novice and in the process of learning how Laravel works (also time constraints) i have it all in public folder to show a gist of the working.
+I know it is not a good practice to have files saved in the public folder. Eventhough i have decent knowledge with PHP,I'm slowly learning about frameworks.Since i'm a novice and in the process of learning how Laravel works (also time constraints) i have it all in public folder to show a gist of the working.
 
 ## Requirements
    <ul>
